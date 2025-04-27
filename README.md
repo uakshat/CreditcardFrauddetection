@@ -1,4 +1,6 @@
-# CreditcardFrauddetection
+# Creditcard Fraud Detection System
+
+
 Credit Card Fraud Detection System
 This project is a fully functional Credit Card Fraud Detection System built using Python. The primary aim of this system is to identify fraudulent transactions by analyzing the patterns and behaviors of credit card transactions. The system integrates both rule-based and machine learning approaches to detect anomalies in transaction data, ensuring a more robust fraud detection mechanism.
 
