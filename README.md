@@ -17,3 +17,19 @@ Login System: A simple login system that supports multiple users with hardcoded 
 Smarter Fraud Detection: The fraud detection system has been upgraded with a smarter model, capable of processing 200+ transactions and detecting fraud more accurately.
 
 The project is designed to simulate real-world use cases in fraud detection systems, providing a foundational platform for further enhancements in security and data processing.
+
+Instructions to Download and Run the Project
+Follow the steps below to set up and run the Credit Card Fraud Detection System locally:
+
+Install Required Dependencies
+Make sure you have Python 3.x installed on your system. Then, navigate to the project folder and install the required dependencies by running:
+cd credit-card-fraud-detection
+pip install -r requirements.txt
+
+ Run the Application
+Once the dependencies are installed, you can run the application by executing the following command:
+python app.py
+
+
+
+
